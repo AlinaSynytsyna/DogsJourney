@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a771361147e0b8c49a03c9925f86290a, type: 3}
+  m_Name: SettingsValues
+  m_EditorClassIdentifier: 
+  MusicMixer: {fileID: 24100000, guid: 4b7e158a446403e4c9f11c8f733ce7ba, type: 2}
+  EffectsMixer: {fileID: 24100000, guid: 9890ceb54388f744aaf41f918168bf7d, type: 2}
+  Width: 1920
+  Height: 1080
+  MusicMixerValue: -20
+  EffectsMixerValue: -30
